@@ -1,0 +1,164 @@
+.iconlar-kismi{
+    background-color: #5ba61e;
+}
+.kamyonet-icon{
+    font-size: 40px;
+    color: #fff;
+    margin-right: 15px;
+}
+
+.shopping-icon{
+    font-size: 40px;
+    color: #fff;
+}
+.credit-icon{
+    font-size: 40px;
+    color: #fff;
+}   
+.form-kismi{
+    background-color: #341500;
+}
+.liste1 ul{
+    list-style: none;
+    padding: 0%;
+}
+.liste1 ul li a{
+    color: #fff;
+}
+.liste1 ul a:hover{
+    color: #5ba61e;
+}
+
+.liste1 ul li a{
+    text-decoration:none ;
+}
+.liste2 ul{
+    list-style: none;
+    padding: 0%;
+}
+.liste2 ul li a{
+    color: #fff;
+}
+.liste2 ul li a:hover{
+    color: #5ba61e;
+}
+.liste2 ul li a{
+    text-decoration:none ;
+}
+.liste2{
+    margin-top: 33px;
+}
+
+.liste3 ul{
+    list-style: none;
+    padding: 0%;
+}
+.liste3 ul li a{
+    color: #fff;
+}
+.liste3 ul li a:hover{
+    color: #5ba61e;
+}
+.liste3 ul li a{
+    text-decoration:none ;
+}
+.liste3{
+    margin-top: 33px;
+}
+
+.liste4 ul{
+    list-style: none;
+    padding: 0%;
+}
+.liste4 ul li a{
+    color: #fff;
+}
+.liste4 ul li a:hover{
+    color: #5ba61e;
+}
+.liste4 ul li a{
+    text-decoration:none ;
+}
+
+.liste5 ul{
+    list-style: none;
+    padding: 0%;
+    margin-left: 25px;
+}
+.liste5 ul li a{
+    color: #fff;
+}
+.liste5 ul li a{
+    text-decoration:none ;
+}
+
+
+.liste6 ul{
+    margin-top: 20px;
+    list-style: none;
+    padding: 0%;
+}
+.liste6 ul li a{
+    color: #fff;
+}
+.liste6 ul li a{
+    text-decoration:none ;
+}
+.liste6 ul li a:hover{
+    color: #5ba61e;
+}
+
+
+.liste7 ul{
+    margin-top: 20px;
+    list-style: none;
+    padding: 0%;
+}
+.liste7 ul li a{
+    color: #fff;
+}
+.liste7 ul li a{
+    text-decoration:none ;
+}
+.liste7 ul li a:hover{
+    color: #5ba61e;
+}
+
+
+.liste8 ul{
+    margin-top: 20px;
+    list-style: none;
+    padding: 0%;
+}
+.liste8 ul li a{
+    color: #fff;
+}
+.liste8 ul li a{
+    text-decoration:none ;
+}
+.liste8 ul li a:hover{
+    color: #5ba61e;
+}
+.liste8{
+    margin-top: 24px;
+}
+.sosyal-medya{
+    list-style: none;
+    padding: 0%;
+}
+.cizgi{
+    border: solid 1px #343638;
+}
+.cardlar ul li{
+    list-style: none;
+    margin-top: 3px;
+}
+.cardlar ul li i{
+    font-size: 25px;
+}
+.cardlar .master{
+    margin-left: 20px;
+}
+.cardlar .visa{
+    margin-left: 800px;
+}
