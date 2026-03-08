@@ -1,0 +1,123 @@
+.fs-14 {
+    font-size: 14px !important;
+}
+
+.fs-16 {
+    font-size: 16px !important;
+}
+
+.mt-50 {
+    margin-top: 50px !important;
+}
+
+.mt-75 {
+    margin-top: 75px !important;
+}
+
+.mt-100 {
+    margin-top: 100px !important;
+}
+
+.textcolor-varsayilan {
+    color: #6aaf08 !important;
+}
+
+.bilgi-butonu {
+    background-color: #6aaf08;
+    border: 0;
+    text-transform: uppercase;
+    padding: 15px 10px;
+}
+
+.bilgi-butonu:hover {
+    background-color: #568f06;
+}
+
+.header-card {
+    border: 0;
+    margin-top: 75px;
+    font-size: 1.4rem;
+}
+
+.yesil-arka-plan {
+    background-color: #6aaf08;
+    padding-bottom: 200px;
+    padding-top: 75px;
+}
+
+.card-seffaf {
+    background-color: transparent;
+}
+
+.card-seffaf .card-img-top {
+    padding-top: 25px;
+    border-radius: 50%;
+}
+
+.link-kisim {
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.link-kisim .nav-link {
+    margin-top: 15px;
+    color: black !important;
+    border: 1px solid #6aaf08;
+    margin: 0 5px;
+}
+
+.birinci {
+    background-color: #6aaf08 !important;
+    color: white !important;
+}
+
+.link-kisim .nav-link:not(.active):hover {
+    background-color: #6aaf08;
+    color: white !important;
+}
+
+.resimler img {
+    width: 360px;
+    height: 240px;
+    margin: 15px;
+    margin-top: 15px;
+}
+.referanslar{
+    background-color: rgba(106, 175, 8, 0.85);
+    padding: 45px;
+}
+.referanslar .baslik{
+    margin-bottom: 45px;
+}
+.baslik{
+    margin-bottom: 55px;
+}
+.iletisim-form{
+    margin-top: 35px;
+}
+.ad{
+    margin-top: 25px;
+    margin-right: 15px;
+    margin-bottom: 35px;
+}
+.tel{
+    margin-top: 25px;
+}
+.buton{
+    margin-top: 25px;
+    background-color: #6aaf08;
+    padding:15px;
+    padding-left:35px;
+    padding-right: 35px;
+    color: white;
+}
+.en-alt{
+    margin-top: 35px;
+    background-color: #666;
+}
+.yazi{
+    padding: 45px;
+}
+.iletisim-baslik{
+    margin-top: 35px;
+}
